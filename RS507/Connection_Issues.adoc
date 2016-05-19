@@ -25,7 +25,7 @@ Add a Carriage Return to the RS507
 
 image:images/Scan1.jpg[]
 
-* Scan the Scan Suffix 2 to initiate the Carriage return function on the RS507
+* Scan the Scan Suffix barcode to initiate the Carriage return function on the RS507
 
 image:images/ScanCR.jpg[]
 
