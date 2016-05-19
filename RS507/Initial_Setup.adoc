@@ -119,3 +119,7 @@ image:images/Unpair.jpg[]
 *** To reconnect the RS507 to the Nexus 5 phone, hit the reset button on the side.  A simple press and release will do
 * If successful you will hear the RS507 Chirp
 * *DO NOT HOLD THE BUTTON DOWN FOR A LONG PERIOD OF TIME THIS WILL WARM RESET THE DEVICE AND WILL NEED TO BE RE-PAIRED WITH THE NEXUS 5*
+
+For Troubleshooting Refer to SKXXX- RS507 Connection Issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
