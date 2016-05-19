@@ -120,6 +120,6 @@ image:images/Unpair.jpg[]
 * If successful you will hear the RS507 Chirp
 * *DO NOT HOLD THE BUTTON DOWN FOR A LONG PERIOD OF TIME THIS WILL WARM RESET THE DEVICE AND WILL NEED TO BE RE-PAIRED WITH THE NEXUS 5*
 
-For Troubleshooting Refer to SKXXX- RS507 Connection Issues
+For Troubleshooting Refer to SKXXX- RS507 Connection Repair
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
