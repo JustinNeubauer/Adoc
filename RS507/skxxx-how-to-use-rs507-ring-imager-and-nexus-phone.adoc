@@ -1,0 +1,16 @@
+SKXXX - How to Use RS507 Ring Imager And Nexus Phone
+----------------------------------------------------
+Purpose 
+~~~~~~~
+Pairing two devices for daily use.
+
+Procedure
+~~~~~~~~~
+1. Sign into SKS-Connect on the Nexus phone
+2. Insert battery into the RS507 Ring Imager
+* Wait for three beeps
+3. Press and release the *Restore Key* (side button)
+* Success: Hear one beep
+* Failure: Hear two beeps
+
+WARNING: HOLDING DOWN THE *RESTORE KEY* WILL RESET THE RING IMAGER
